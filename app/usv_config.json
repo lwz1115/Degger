@@ -1,0 +1,43 @@
+{
+  "storage_dir": "C:\\Users\\Administrator\\Desktop\\G12Debugger\\Logs",
+  "adb_path": "D:\\study_sofeware\\SDK\\platform-tools\\adb.exe",
+  "serial": "",
+  "pair_addr": "192.168.10.195:39687",
+  "pair_code": "178000",
+  "conn_addr": "192.168.10.195:40405",
+  "default_ip": "192.168.10.195",
+  "live_addr": "192.168.10.85:5760",
+  "preferred_ip": "",
+  "devices": {
+    "506a8705": {
+      "ip": "192.168.10.195",
+      "conn_addr": "192.168.10.195:40405",
+      "last_used": 1789463328.3624158,
+      "name": "WD90"
+    }
+  },
+  "active_uid": "506a8705",
+  "mav_port": 5760,
+  "alias_in_left": "RC3",
+  "alias_in_right": "RC1",
+  "alias_out_s1": "S1",
+  "alias_out_s3": "S3",
+  "rc_channels": "3,4",
+  "servo_channels": "1,2,3,4",
+  "action_thresh": 120,
+  "diag_sec": 30,
+  "diag_target": "两者",
+  "seg_dir": "C:\\Users\\Administrator\\Desktop\\G12Debugger\\航段记录",
+  "allow_any_mode": false,
+  "boost_rates": true,
+  "att_hz": 10,
+  "pid_hz": 20,
+  "servo_hz": 10,
+  "update_dir": "C:\\Users\\Administrator\\Desktop\\G12Debugger\\updates",
+  "alias_left_stick": "左摇杆(油门)",
+  "alias_right_stick": "右摇杆(转向)",
+  "alias_out_left": "OUT(S1/S3)",
+  "alias_out_right": "OUT(S1/S3)",
+  "dual_enabled": false,
+  "mode": "single"
+}

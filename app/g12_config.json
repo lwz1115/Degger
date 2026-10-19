@@ -1,0 +1,21 @@
+{
+  "storage_dir": "C:\\Users\\Administrator\\Desktop\\G12Debugger\\Logs",
+  "adb_path": "D:\\study_sofeware\\SDK\\platform-tools\\adb.exe",
+  "update_dir": "C:\\Users\\Administrator\\Desktop\\G12Debugger\\updates",
+  "pair_addr": "192.168.10.195:38873",
+  "pair_code": "244770",
+  "conn_addr": "192.168.10.162:39657",
+  "default_ip": "192.168.10.162",
+  "alias_left_stick": "左摇杆(油门)",
+  "alias_right_stick": "右摇杆(转向)",
+  "alias_in_left": "RC3",
+  "alias_out_left": "OUT(S1/S3)",
+  "alias_in_right": "RC1",
+  "alias_out_right": "OUT(S1/S3)",
+  "alias_out_s1": "S1",
+  "alias_out_s3": "S3",
+  "action_thresh": 120,
+  "dual_enabled": false,
+  "mode": "single",
+  "live_addr": "192.168.10.162:5760"
+}
